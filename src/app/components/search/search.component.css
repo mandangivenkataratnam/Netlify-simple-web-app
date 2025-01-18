@@ -1,0 +1,18 @@
+h5{
+    color: white;
+}
+button{
+    background-color: red;
+    color: white;
+}
+img{
+    width: 100%;
+    cursor: pointer;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+
+
+
